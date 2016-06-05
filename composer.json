@@ -1,5 +1,8 @@
 {
     "require": {
         "deployer/deployer": "^3.3"
+    },
+    "scripts": {
+        "deployer": "dep"
     }
 }
